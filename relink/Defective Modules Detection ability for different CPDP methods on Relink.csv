@@ -1,0 +1,7 @@
+train-test,0(SM),1(SM),0(UM),1(UM),0(ALL),1(ALL)
+Apache-Zxing,2,23,32,6,2,23
+Apache-Safe,2,2,5,0,2,2
+Zxing-Apache,3,9,25,3,3,8
+Zxing-Safe,2,3,5,0,2,2
+Safe-Apache,8,11,25,3,7,12
+Safe-Zxing,29,18,32,6,23,2
